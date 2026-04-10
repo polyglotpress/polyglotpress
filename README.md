@@ -4,7 +4,7 @@
 
 I'm a full-stack web developer who loves combining skills and passions into useful products.
 
-* I enjoy working with NodeJS and Express
+* I enjoy working with NodeJS and Express, and separately with C# .NET and Entity Framework
 * I'm based in the United Kingdom 
 * You can contact me at [schl.esther@gmail.com](mailto:schl.esther@gmail.com)
 * I'm currently learning ReactJS & TypeScript
